@@ -11,4 +11,4 @@ The program is an extremely primitive prototype written to work on image process
 The program approximately 70% correct results.
 You can e-mail to see the source codes or to ask questions.
 
-<img src="https://i.hizliresim.com/C4zIoA.png" width="929" height="326"/>
+    <img src="https://i.hizliresim.com/C4zIoA.png" width="929" height="326"/>
