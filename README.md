@@ -11,4 +11,4 @@ The program is an extremely primitive prototype written to work on image process
 The program approximately 70% correct results.
 You can e-mail to see the source codes or to ask questions.
 
-<img src="https://github.com/xBluu/Bmi-Calculator-With-Image-Processing-And-Face-Recognition/blob/master/BMI%20Calculator%20Tavsiye%20Diyagram%C4%B1-1.jpg" width="480" height="270"/>
+<img src="https://i.hizliresim.com/C4zIoA.png" width="960" height="540"/>
