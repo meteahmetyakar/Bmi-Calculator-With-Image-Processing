@@ -7,7 +7,7 @@ Program hakkında sorularınız ve kaynak kod için mail atabilirsiniz.
 
 <img src="https://i.hizliresim.com/4eu3z7.png"/>
 
-[Tavsiye Diyagramı](https://i.hizliresim.com/2w6gpx.png)
+[go][Tavsiye Diyagramı](https://i.hizliresim.com/2w6gpx.png)
 
 ## Overview
 
