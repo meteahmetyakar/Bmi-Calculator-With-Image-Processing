@@ -5,6 +5,8 @@ Program, görüntü işleme ve yapay zeka üzerine çalışma amacıyla yazılm�
 Program %70 civarında doğru sonucu veriyor.
 Program hakkında sorularınız ve kaynak kod için mail atabilirsiniz.
 
+<img src="https://i.hizliresim.com/4eu3z7.png"/>
+
 ## Overview
 
 The program is an extremely primitive prototype written to work on image processing and AI. The aim of the program is to calculate the bmi from the person's photo and compare it with the previous measurements, if any, and make recommendations. There is no height, weight or any other entry in the program. Bmi calculation and recognition the person is done with the person's photo.
