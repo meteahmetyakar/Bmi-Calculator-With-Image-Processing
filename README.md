@@ -2,8 +2,8 @@
 
 ## Overview
 
-The program is an extremely primitive prototype written to work on image processing and AI. The aim of the program is to calculate the bmi from the person's photo and compare it with the previous measurements, if any, and make recommendations. There is no height, weight or any other entry in the program. Bmi calculation and recognition the person is done with the person's photo.
-The program approximately 70% correct results.
+The software is an extremely primitive prototype written to work on image processing and AI. The aim of the software is to calculate the bmi from the person's photo and compare it with the previous measurements, if any, and make recommendations. There is no height, weight or any other entry in the software. Bmi calculation and recognition the person is done with the person's photo.
+The software approximately 70% correct results.
 
 * In the project, i used LBPG Algorithm and I developed in windows forms with C#
 
@@ -13,7 +13,7 @@ The program approximately 70% correct results.
 
 ### Ip Camera Input Screen
 
-We enter the ip of the ip camera there may be changes in the code according to the ip camera program you use, you can edit it. I used my own phone as a ip camera.
+We enter the ip of the ip camera there may be changes in the code according to the ip camera software you use, you can edit it. I used my own phone as a ip camera.
 <br></br>
 <p align="center">
   <img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing/blob/main/images/ip-camera-input.png" />
@@ -29,7 +29,7 @@ We enter the ip of the ip camera there may be changes in the code according to t
 
 ### Face Recognition Screen
 
-* In this screen program is using webcam of computer because here the webcam is more useful than ip camera, but it can be easily converted to ip camera.
+* In this screen software is using webcam of computer because here the webcam is more useful than ip camera, but it can be easily converted to ip camera.
 * İf dot is green, this mean face detected and it can recognize
 
 <p align="center">
@@ -40,7 +40,7 @@ We enter the ip of the ip camera there may be changes in the code according to t
 
 ### Camera Screen
 
-* Here the program uses the phone camera as an ip camera, I did not use a webcam because the phone camera can take portraits. It is very difficult to take portraits on webcam
+* Here the software uses the phone camera as an ip camera, I did not use a webcam because the phone camera can take portraits. It is very difficult to take portraits on webcam
 * For healthy results, the camera should be kept parallel to the person and the person should be centered.
 
 <p align="center">
@@ -73,7 +73,7 @@ We enter the ip of the ip camera there may be changes in the code according to t
 
 ### Database Part
 
-* A table is created for each new user in the program, but the program handles it by itself, you just need to enter the connection string.
+* A table is created for each new user in the software, but the software handles it by itself, you just need to enter the connection string.
 <br></br>
 <p align="center">
   <img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing/blob/main/images/database-design.png" />
