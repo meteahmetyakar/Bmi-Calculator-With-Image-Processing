@@ -28,7 +28,7 @@ We enter the ip of the ip camera there may be changes in the code according to t
 ### Face Recognition Screen
 
 * In this screen program is using webcam of computer because here the webcam is more useful than ip camera, but it can be easily converted to ip camera.
-* İf dot is yellow, this mean face detected and it can train
+* İf dot is green, this mean face detected and it can recognize
 
 <p align="center">
   <img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing-And-Face-Recognition/blob/main/images/face-detection.gif" />
