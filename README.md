@@ -47,7 +47,8 @@ We enter the ip of the ip camera there may be changes in the code according to t
 
 # 
 
-### Result Screen
+<h3 align="center">Result Screen</h3>
+<br></br>
 
 * Here old results are drawn from the database, compared with the new result and recommendations are given to the person
 
@@ -69,7 +70,8 @@ We enter the ip of the ip camera there may be changes in the code according to t
 
 # 
 
-<h3 align="center">Database</h3>
+<h3 align="center">Database Part</h3>
+<br></br>
 
 <p align="center">
   <img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing-And-Face-Recognition/blob/main/images/database-design.png" />
