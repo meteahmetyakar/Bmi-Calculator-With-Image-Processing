@@ -14,9 +14,11 @@ We enter the ip of the ip camera there may be changes in the code according to t
 <img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing-And-Face-Recognition/blob/main/images/ip-camera-input.png" />
 
 <br></br>
-ip camera part in IpCameraEnterScreen.cs
-<img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing-And-Face-Recognition/blob/main/images/ip-camera-input-code.png" />
 
+<p align="center">
+  <h3>ip camera part in IpCameraEnterScreen.cs</h3>
+  <img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing-And-Face-Recognition/blob/main/images/ip-camera-input-code.png" />
+</p> 
 
 
 [Tavsiye Diyagramı](https://i.hizliresim.com/2w6gpx.png)
