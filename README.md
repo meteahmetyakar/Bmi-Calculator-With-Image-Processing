@@ -34,4 +34,24 @@ We enter the ip of the ip camera there may be changes in the code according to t
   <img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing-And-Face-Recognition/blob/main/images/face-detection.gif" />
 </p> 
 
-[Tavsiye Diyagramı](https://i.hizliresim.com/2w6gpx.png)
+# 
+
+### Camera Screen
+
+* Here the program uses the phone camera as an ip camera, I did not use a webcam because the phone camera can take portraits. It is very difficult to take portraits on webcam
+* For healthy results, the camera should be kept parallel to the person and the person should be centered.
+
+<p align="center">
+  <img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing-And-Face-Recognition/blob/main/images/camera-screen.png" />
+</p> 
+
+# 
+
+### Result Screen
+
+* Here old results are drawn from the database, compared with the new result and recommendations are given to the person
+
+<p align="center">
+  <img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing-And-Face-Recognition/blob/main/images/result-screen.png" />
+</p> 
+
