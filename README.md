@@ -6,6 +6,6 @@ The program is an extremely primitive prototype written to work on image process
 The program approximately 70% correct results.
 
 We enter the ip of the ip camera there may be changes in the code according to the ip camera program you use, you can edit it. I used my own phone as a ip camera.
-<img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing-And-Face-Recognition/blob/main/images/ip-camera-input" width="1280" height="720" />tt 
+<img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing-And-Face-Recognition/blob/main/images/ip-camera-input" />
 
 [Tavsiye Diyagramı](https://i.hizliresim.com/2w6gpx.png)
