@@ -1,0 +1,411 @@
+C:\Users\Bluu\source\repos\BMI Calculator\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.Giris.resources
+C:\Users\Bluu\source\repos\BMI Calculator\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.HesapEkrani.resources
+C:\Users\Bluu\source\repos\BMI Calculator\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.GenerateResource.cache
+C:\Users\Bluu\source\repos\BMI Calculator\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Bluu\source\repos\BMI Calculator\WindowsFormsApp121\bin\Debug\AForge.Video.dll
+C:\Users\Bluu\source\repos\BMI Calculator\WindowsFormsApp121\bin\Debug\AForge.dll
+C:\Users\Bluu\source\repos\BMI Calculator\WindowsFormsApp121\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Bluu\source\repos\BMI Calculator\WindowsFormsApp121\bin\Debug\AForge.Video.xml
+C:\Users\Bluu\source\repos\BMI Calculator\WindowsFormsApp121\bin\Debug\AForge.xml
+C:\Users\Bluu\source\repos\BMI Calculator\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.KameraEkrani.resources
+C:\Users\Bluu\source\repos\BMI Calculator\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.CopyComplete
+C:\Users\Bluu\source\repos\BMI Calculator\WindowsFormsApp121\obj\Debug\BmıCalculator.exe.config
+C:\Users\Bluu\source\repos\BMI Calculator\WindowsFormsApp121\obj\Debug\BmıCalculator.Properties.Resources.resources
+C:\Users\Bluu\source\repos\BMI Calculator\WindowsFormsApp121\bin\Debug\BmıCalculator.exe.config
+C:\Users\Bluu\source\repos\BMI Calculator\WindowsFormsApp121\bin\Debug\BmıCalculator.exe
+C:\Users\Bluu\source\repos\BMI Calculator\WindowsFormsApp121\bin\Debug\BmıCalculator.pdb
+C:\Users\Bluu\source\repos\BMI Calculator\WindowsFormsApp121\obj\Debug\BmıCalculator.exe
+C:\Users\Bluu\source\repos\BMI Calculator\WindowsFormsApp121\obj\Debug\BmıCalculator.pdb
+C:\Users\Bluu\source\repos\BMI Calculator\WindowsFormsApp121\obj\Debug\Bmı Calculator.csprojAssemblyReference.cache
+C:\Users\Bluu\Desktop\BMI Calculator\WindowsFormsApp121\bin\Debug\BmıCalculator.exe.config
+C:\Users\Bluu\Desktop\BMI Calculator\WindowsFormsApp121\bin\Debug\BmıCalculator.exe
+C:\Users\Bluu\Desktop\BMI Calculator\WindowsFormsApp121\bin\Debug\BmıCalculator.pdb
+C:\Users\Bluu\Desktop\BMI Calculator\WindowsFormsApp121\bin\Debug\AForge.Video.dll
+C:\Users\Bluu\Desktop\BMI Calculator\WindowsFormsApp121\bin\Debug\AForge.dll
+C:\Users\Bluu\Desktop\BMI Calculator\WindowsFormsApp121\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Bluu\Desktop\BMI Calculator\WindowsFormsApp121\bin\Debug\AForge.Video.xml
+C:\Users\Bluu\Desktop\BMI Calculator\WindowsFormsApp121\bin\Debug\AForge.xml
+C:\Users\Bluu\Desktop\BMI Calculator\WindowsFormsApp121\obj\Debug\Bmı Calculator.csprojAssemblyReference.cache
+C:\Users\Bluu\Desktop\BMI Calculator\WindowsFormsApp121\obj\Debug\BmıCalculator.exe.config
+C:\Users\Bluu\Desktop\BMI Calculator\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.Giris.resources
+C:\Users\Bluu\Desktop\BMI Calculator\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.HesapEkrani.resources
+C:\Users\Bluu\Desktop\BMI Calculator\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.KameraEkrani.resources
+C:\Users\Bluu\Desktop\BMI Calculator\WindowsFormsApp121\obj\Debug\BmıCalculator.Properties.Resources.resources
+C:\Users\Bluu\Desktop\BMI Calculator\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.GenerateResource.cache
+C:\Users\Bluu\Desktop\BMI Calculator\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Bluu\Desktop\BMI Calculator\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.CopyComplete
+C:\Users\Bluu\Desktop\BMI Calculator\WindowsFormsApp121\obj\Debug\BmıCalculator.exe
+C:\Users\Bluu\Desktop\BMI Calculator\WindowsFormsApp121\obj\Debug\BmıCalculator.pdb
+C:\Users\Bluu\Desktop\Proje Video\BMI Calculator - Kopya\WindowsFormsApp121\bin\Debug\BmıCalculator.exe.config
+C:\Users\Bluu\Desktop\Proje Video\BMI Calculator - Kopya\WindowsFormsApp121\bin\Debug\BmıCalculator.exe
+C:\Users\Bluu\Desktop\Proje Video\BMI Calculator - Kopya\WindowsFormsApp121\bin\Debug\BmıCalculator.pdb
+C:\Users\Bluu\Desktop\Proje Video\BMI Calculator - Kopya\WindowsFormsApp121\bin\Debug\AForge.Video.dll
+C:\Users\Bluu\Desktop\Proje Video\BMI Calculator - Kopya\WindowsFormsApp121\bin\Debug\AForge.dll
+C:\Users\Bluu\Desktop\Proje Video\BMI Calculator - Kopya\WindowsFormsApp121\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Bluu\Desktop\Proje Video\BMI Calculator - Kopya\WindowsFormsApp121\bin\Debug\AForge.Video.xml
+C:\Users\Bluu\Desktop\Proje Video\BMI Calculator - Kopya\WindowsFormsApp121\bin\Debug\AForge.xml
+C:\Users\Bluu\Desktop\Proje Video\BMI Calculator - Kopya\WindowsFormsApp121\obj\Debug\BmıCalculator.exe.config
+C:\Users\Bluu\Desktop\Proje Video\BMI Calculator - Kopya\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.Giris.resources
+C:\Users\Bluu\Desktop\Proje Video\BMI Calculator - Kopya\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.HesapEkrani.resources
+C:\Users\Bluu\Desktop\Proje Video\BMI Calculator - Kopya\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.KameraEkrani.resources
+C:\Users\Bluu\Desktop\Proje Video\BMI Calculator - Kopya\WindowsFormsApp121\obj\Debug\BmıCalculator.Properties.Resources.resources
+C:\Users\Bluu\Desktop\Proje Video\BMI Calculator - Kopya\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.GenerateResource.cache
+C:\Users\Bluu\Desktop\Proje Video\BMI Calculator - Kopya\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Bluu\Desktop\Proje Video\BMI Calculator - Kopya\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.CopyComplete
+C:\Users\Bluu\Desktop\Proje Video\BMI Calculator - Kopya\WindowsFormsApp121\obj\Debug\BmıCalculator.exe
+C:\Users\Bluu\Desktop\Proje Video\BMI Calculator - Kopya\WindowsFormsApp121\obj\Debug\BmıCalculator.pdb
+C:\Users\Bluu\Desktop\BMI Calculator\BMI Calculator Açıklamalı\WindowsFormsApp121\bin\Debug\BmıCalculator.exe.config
+C:\Users\Bluu\Desktop\BMI Calculator\BMI Calculator Açıklamalı\WindowsFormsApp121\bin\Debug\BmıCalculator.exe
+C:\Users\Bluu\Desktop\BMI Calculator\BMI Calculator Açıklamalı\WindowsFormsApp121\bin\Debug\BmıCalculator.pdb
+C:\Users\Bluu\Desktop\BMI Calculator\BMI Calculator Açıklamalı\WindowsFormsApp121\bin\Debug\AForge.Video.dll
+C:\Users\Bluu\Desktop\BMI Calculator\BMI Calculator Açıklamalı\WindowsFormsApp121\bin\Debug\AForge.dll
+C:\Users\Bluu\Desktop\BMI Calculator\BMI Calculator Açıklamalı\WindowsFormsApp121\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Bluu\Desktop\BMI Calculator\BMI Calculator Açıklamalı\WindowsFormsApp121\bin\Debug\AForge.Video.xml
+C:\Users\Bluu\Desktop\BMI Calculator\BMI Calculator Açıklamalı\WindowsFormsApp121\bin\Debug\AForge.xml
+C:\Users\Bluu\Desktop\BMI Calculator\BMI Calculator Açıklamalı\WindowsFormsApp121\obj\Debug\Bmı Calculator.csprojAssemblyReference.cache
+C:\Users\Bluu\Desktop\BMI Calculator\BMI Calculator Açıklamalı\WindowsFormsApp121\obj\Debug\BmıCalculator.exe.config
+C:\Users\Bluu\Desktop\BMI Calculator\BMI Calculator Açıklamalı\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.Giris.resources
+C:\Users\Bluu\Desktop\BMI Calculator\BMI Calculator Açıklamalı\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.HesapEkrani.resources
+C:\Users\Bluu\Desktop\BMI Calculator\BMI Calculator Açıklamalı\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.KameraEkrani.resources
+C:\Users\Bluu\Desktop\BMI Calculator\BMI Calculator Açıklamalı\WindowsFormsApp121\obj\Debug\BmıCalculator.Properties.Resources.resources
+C:\Users\Bluu\Desktop\BMI Calculator\BMI Calculator Açıklamalı\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.GenerateResource.cache
+C:\Users\Bluu\Desktop\BMI Calculator\BMI Calculator Açıklamalı\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Bluu\Desktop\BMI Calculator\BMI Calculator Açıklamalı\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.CopyComplete
+C:\Users\Bluu\Desktop\BMI Calculator\BMI Calculator Açıklamalı\WindowsFormsApp121\obj\Debug\BmıCalculator.exe
+C:\Users\Bluu\Desktop\BMI Calculator\BMI Calculator Açıklamalı\WindowsFormsApp121\obj\Debug\BmıCalculator.pdb
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\OpenCL.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_calib3d2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_contrib2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_core2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_features2d2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_flann2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_gpu2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_highgui2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_imgproc2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_legacy2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_ml2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_nonfree2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_objdetect2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_photo2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_stitching2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_superres2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_video2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_videostab2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\cvextern.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\BmıCalculator.exe.config
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\BmıCalculator.exe
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\BmıCalculator.pdb
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\AForge.Video.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.ML.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.OpenCL.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.Util.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\ZedGraph.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\AForge.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\AForge.Video.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.OpenCL.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.Util.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\AForge.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\obj\Debug\Bmı Calculator.csprojAssemblyReference.cache
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.Giris.resources
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.HesapEkrani.resources
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.KameraEkrani.resources
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\obj\Debug\BmıCalculator.Properties.Resources.resources
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.GenerateResource.cache
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.CopyComplete
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\obj\Debug\BmıCalculator.exe
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\obj\Debug\BmıCalculator.pdb
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.YuzTanitma.resources
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\obj\Debug\BmıCalculator.Form1.resources
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\OpenCL.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_calib3d2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_contrib2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_core2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_features2d2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_flann2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_gpu2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_highgui2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_imgproc2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_legacy2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_ml2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_nonfree2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_objdetect2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_photo2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_stitching2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_superres2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_video2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\opencv_videostab2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\cvextern.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\BmıCalculator.exe.config
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\BmıCalculator.exe
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\BmıCalculator.pdb
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\AForge.Video.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.ML.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.OpenCL.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.Util.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\AForge.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\ZedGraph.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\AForge.Video.xml
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.xml
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.OpenCL.xml
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\Emgu.Util.xml
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\bin\Debug\AForge.xml
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\obj\Debug\Bmı Calculator.csprojAssemblyReference.cache
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.YuzTanitma.resources
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.Giris.resources
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.HesapEkrani.resources
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.KameraEkrani.resources
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\obj\Debug\BmıCalculator.Properties.Resources.resources
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.GenerateResource.cache
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.CopyComplete
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\obj\Debug\BmıCalculator.exe
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator Açıklamalı - Kopya\WindowsFormsApp121\obj\Debug\BmıCalculator.pdb
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\OpenCL.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\opencv_calib3d2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\opencv_contrib2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\opencv_core2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\opencv_features2d2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\opencv_flann2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\opencv_gpu2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\opencv_highgui2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\opencv_imgproc2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\opencv_legacy2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\opencv_ml2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\opencv_nonfree2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\opencv_objdetect2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\opencv_photo2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\opencv_stitching2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\opencv_superres2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\opencv_video2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\opencv_videostab2410.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\cvextern.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\BmıCalculator.exe.config
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\BmıCalculator.exe
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\BmıCalculator.pdb
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\AForge.Video.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\Emgu.CV.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\Emgu.CV.ML.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\Emgu.CV.OpenCL.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\Emgu.Util.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\AForge.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\ZedGraph.dll
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\AForge.Video.xml
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\Emgu.CV.xml
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\Emgu.CV.OpenCL.xml
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\Emgu.Util.xml
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\bin\Debug\AForge.xml
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\obj\Debug\Bmı Calculator.csprojAssemblyReference.cache
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.YuzTanitma.resources
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.Giris.resources
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.HesapEkrani.resources
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.KameraEkrani.resources
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\obj\Debug\BmıCalculator.Properties.Resources.resources
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.GenerateResource.cache
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.CopyComplete
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\obj\Debug\BmıCalculator.exe
+C:\Users\Bluu\Desktop\Proje\Proje\BMI Calculator\WindowsFormsApp121\obj\Debug\BmıCalculator.pdb
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\OpenCL.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\opencv_calib3d2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\opencv_contrib2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\opencv_core2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\opencv_features2d2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\opencv_flann2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\opencv_gpu2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\opencv_highgui2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\opencv_imgproc2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\opencv_legacy2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\opencv_ml2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\opencv_nonfree2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\opencv_objdetect2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\opencv_photo2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\opencv_stitching2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\opencv_superres2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\opencv_video2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\opencv_videostab2410.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\cvextern.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\BmıCalculator.exe.config
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\BmıCalculator.exe
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\BmıCalculator.pdb
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\AForge.Video.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\Emgu.CV.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\Emgu.CV.ML.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\Emgu.CV.OpenCL.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\Emgu.Util.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\AForge.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\ZedGraph.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\AForge.Video.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\Emgu.CV.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\Emgu.CV.OpenCL.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\Emgu.Util.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Debug\AForge.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\Bmı Calculator.csprojAssemblyReference.cache
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.YuzTanitma.resources
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.Giris.resources
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.HesapEkrani.resources
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.KameraEkrani.resources
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\BmıCalculator.Properties.Resources.resources
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.GenerateResource.cache
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.CopyComplete
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\BmıCalculator.exe
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\BmıCalculator.pdb
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\Bmı Calculator.csprojAssemblyReference.cache
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.YuzTanitma.resources
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.Giris.resources
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.HesapEkrani.resources
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.KameraEkrani.resources
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.GenerateResource.cache
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\BmıCalculator.exe
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\BmıCalculator.pdb
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\BmıCalculator.Properties.Resources.resources
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\BmıCalculator.exe.config
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\BmıCalculator.exe
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\BmıCalculator.pdb
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\AForge.dll
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\AForge.Video.dll
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Emgu.CV.dll
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Emgu.CV.GPU.dll
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Emgu.CV.ML.dll
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Emgu.CV.OCR.dll
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Emgu.CV.OpenCL.dll
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Emgu.CV.Stitching.dll
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Emgu.CV.UI.dll
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Emgu.CV.VideoStab.dll
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Emgu.Util.dll
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\AForge.xml
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\AForge.Video.xml
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.CopyComplete
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\x64\concrt140.dll
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\x64\cvextern.dll
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\x64\msvcp140.dll
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\x64\vcruntime140.dll
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\x86\concrt140.dll
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\x86\cvextern.dll
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\x86\msvcp140.dll
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\Bluu\Desktop\Proje\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\x86\vcruntime140.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\x64\concrt140.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\x64\cvextern.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\x64\msvcp140.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\x64\vcruntime140.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\x86\concrt140.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\x86\cvextern.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\x86\msvcp140.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\x86\vcruntime140.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\BmıCalculator.exe.config
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\BmıCalculator.exe
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\BmıCalculator.pdb
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\AForge.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\AForge.Video.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Emgu.CV.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Emgu.CV.GPU.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Emgu.CV.ML.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Emgu.CV.OCR.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Emgu.CV.OpenCL.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Emgu.CV.Stitching.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Emgu.CV.UI.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Emgu.CV.VideoStab.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\Emgu.Util.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\ZedGraph.dll
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\AForge.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\bin\AForge.Video.xml
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\Bmı Calculator.csprojAssemblyReference.cache
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.YuzTanitma.resources
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.Giris.resources
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.HesapEkrani.resources
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.KameraEkrani.resources
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\BmıCalculator.Properties.Resources.resources
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.GenerateResource.cache
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.CopyComplete
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\BmıCalculator.exe
+C:\Users\Bluu\Desktop\Mete\Notlar\Proje\BMI Calculator\BMI Calculator (Yeni Hali)\WindowsFormsApp121\obj\Debug\BmıCalculator.pdb
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\x64\concrt140.dll
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\x64\cvextern.dll
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\x64\msvcp140.dll
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\x64\vcruntime140.dll
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\x86\concrt140.dll
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\x86\cvextern.dll
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\x86\msvcp140.dll
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\x86\opencv_videoio_ffmpeg411.dll
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\x86\vcruntime140.dll
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\BmıCalculator.exe.config
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\BmıCalculator.exe
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\BmıCalculator.pdb
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\AForge.dll
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\AForge.Video.dll
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\Emgu.CV.dll
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\Emgu.CV.GPU.dll
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\Emgu.CV.ML.dll
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\Emgu.CV.OCR.dll
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\Emgu.CV.OpenCL.dll
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\Emgu.CV.Stitching.dll
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\Emgu.CV.UI.dll
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\Emgu.CV.VideoStab.dll
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\Emgu.Util.dll
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\ZedGraph.dll
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\AForge.xml
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\bin\AForge.Video.xml
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.AssemblyReference.cache
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.FaceRecScreen.resources
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\obj\Debug\BmıCalculator.Properties.Resources.resources
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.GenerateResource.cache
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.CoreCompileInputs.cache
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\obj\Debug\Bmı Calculator.csproj.CopyComplete
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\obj\Debug\BmıCalculator.exe
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\obj\Debug\BmıCalculator.pdb
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.IpCameraEnterScreen.resources
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.ResultScreen.resources
+D:\Mete\Software\projects\my projects\BMI Calculator\BMI Calculator\BMI Calculator\WindowsFormsApp121\obj\Debug\WindowsFormsApp121.CameraScreen.resources
