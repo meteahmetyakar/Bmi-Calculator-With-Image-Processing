@@ -78,4 +78,4 @@ We enter the ip of the ip camera there may be changes in the code according to t
 
 # 
 
-<h4 align="center"> I used [this](https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing-And-Face-Recognition/blob/main/Calculation-of-BMI-using-image-processing-techniques.pdf) article to create the algorithm of the body mass index calculation from the photo. </h4>
+## I used [this](https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing-And-Face-Recognition/blob/main/Calculation-of-BMI-using-image-processing-techniques.pdf) article to create the algorithm of the body mass index calculation from the photo.
