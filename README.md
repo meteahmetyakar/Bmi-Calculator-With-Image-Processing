@@ -5,6 +5,8 @@
 The program is an extremely primitive prototype written to work on image processing and AI. The aim of the program is to calculate the bmi from the person's photo and compare it with the previous measurements, if any, and make recommendations. There is no height, weight or any other entry in the program. Bmi calculation and recognition the person is done with the person's photo.
 The program approximately 70% correct results.
 
+# 
+
 ## Usage and installation
 
 We enter the ip of the ip camera there may be changes in the code according to the ip camera program you use, you can edit it. I used my own phone as a ip camera.
