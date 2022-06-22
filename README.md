@@ -62,7 +62,7 @@ We enter the ip of the ip camera there may be changes in the code according to t
 * This site gives you 5 attempts, that's why api-key must be change regularly.
 
 <p align="center">
-  <img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing-And-Face-Recognition/blob/main/images/remove-bg-code.png" />
+  <img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing-And-Face-Recognition/blob/main/images/remove-bg-part.png" />
 </p>
 <h3 align="center">You must write your api-key in the second part on line 65</h3>
 
