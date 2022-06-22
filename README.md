@@ -9,16 +9,29 @@ The program approximately 70% correct results.
 
 ## Usage and installation
 
+### Ip Camera Input Screen
+
 We enter the ip of the ip camera there may be changes in the code according to the ip camera program you use, you can edit it. I used my own phone as a ip camera.
 <br></br>
-<img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing-And-Face-Recognition/blob/main/images/ip-camera-input.png" />
-
+<p align="center">
+  <img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing-And-Face-Recognition/blob/main/images/ip-camera-input.png" />
+</p>
 <br></br>
 
 <p align="center">
-  <h3>ip camera part in IpCameraEnterScreen.cs</h3>
   <img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing-And-Face-Recognition/blob/main/images/ip-camera-input-code.png" />
 </p> 
+<h3 align="center">ip camera part in CameraScreen.cs</h3>
 
+# 
+
+### Face Recognition Screen
+
+* In this screen program is using webcam of computer because here the webcam is more useful than ip camera, but it can be easily converted to ip camera.
+* İf dot is yellow, this mean face detected and it can train
+
+<p align="center">
+  <img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing-And-Face-Recognition/blob/main/images/face-detection.gif" />
+</p> 
 
 [Tavsiye Diyagramı](https://i.hizliresim.com/2w6gpx.png)
