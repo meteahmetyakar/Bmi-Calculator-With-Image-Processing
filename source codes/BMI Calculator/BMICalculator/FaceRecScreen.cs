@@ -149,8 +149,6 @@ namespace WindowsFormsApp121
         {
             /*
              * This function checks if the table given name is in the database.                                  
-             * There is another table named isThere in the database, if table exist we write 1 to isThere table otherwise we write 0
-             * and then we read this isThere table, and return its value
              */
 
             int a;
