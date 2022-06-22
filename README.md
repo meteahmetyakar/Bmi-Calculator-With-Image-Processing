@@ -47,7 +47,7 @@ We enter the ip of the ip camera there may be changes in the code according to t
 
 # 
 
-<h3 align="center">Result Screen</h3>
+<h2 align="center">Result Screen</h2>
 <br></br>
 
 * Here old results are drawn from the database, compared with the new result and recommendations are given to the person
@@ -70,7 +70,7 @@ We enter the ip of the ip camera there may be changes in the code according to t
 
 # 
 
-<h3 align="center">Database Part</h3>
+<h2 align="center">Database Part</h2>
 <br></br>
 
 <p align="center">
