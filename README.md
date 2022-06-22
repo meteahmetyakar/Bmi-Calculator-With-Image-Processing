@@ -55,6 +55,8 @@ We enter the ip of the ip camera there may be changes in the code according to t
   <img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing-And-Face-Recognition/blob/main/images/result-screen.png" />
 </p> 
 
+<br></br>
+<br></br>
 
 * When BMI calculating the background of the captured photo is deleted and I use the remove.bg site's api to do this.
 * This site gives you 5 attempts, that's why api-key must be change regularly.
