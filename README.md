@@ -69,7 +69,7 @@ We enter the ip of the ip camera there may be changes in the code according to t
 
 # 
 
-### >Database Part
+### Database Part
 
 <p align="center">
   <img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing-And-Face-Recognition/blob/main/images/database-design.png" />
