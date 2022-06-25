@@ -91,6 +91,9 @@ We enter the ip of the ip camera there may be changes in the code according to t
 | BMI           | varchar(50)   |
 | Date          | datetime      |
 
+<br></br>
+* All data is kept in a single table. The data is taken from the database according to the name and written to the datagridview.
+
 # 
 
 ### I used [this](https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing/blob/main/Calculation-of-BMI-using-image-processing-techniques.pdf) article to create the algorithm of the body mass index calculation from the photo.
