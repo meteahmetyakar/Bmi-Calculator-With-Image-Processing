@@ -82,8 +82,8 @@ We enter the ip of the ip camera there may be changes in the code according to t
 
 #### persons.dbo
 | asdff         |               |
-| Column Name   | Data Type     |
 | ------------- |:-------------:|
+| Column Name   | Data Type     |
 | [Name Surname]| varchar(50)   |
 | BMI           | varchar(50)   |
 | Date          | datetime      |
