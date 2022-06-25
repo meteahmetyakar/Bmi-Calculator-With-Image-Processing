@@ -2,10 +2,9 @@
 
 ## Overview
 
-The software is an extremely primitive prototype written to work on image processing and AI. The aim of the software is to calculate the bmi from the person's photo and compare it with the previous measurements, if any, and make recommendations. There is no height, weight or any other entry in the software. Bmi calculation and recognition the person is done with the person's photo.
-The software approximately 70% correct results.
+The software is an extremely primitive prototype written to study on image processing and AI. The aim of the software is to calculate the bmi from the person's photo and compare it with the previous measurements, if any, and make recommendations. There is no height, weight or any other entry in the software. Bmi calculation and recognition the person is done with the person's photo.
 
-* In the project, i used LBPG Algorithm and I developed in windows forms with C#
+* In the project, I used LBPG Algorithm and I developed in windows forms with C#
 
 # 
 
