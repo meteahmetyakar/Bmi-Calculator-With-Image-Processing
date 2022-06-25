@@ -78,7 +78,7 @@ We enter the ip of the ip camera there may be changes in the code according to t
 <p align="center">
   <img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing/blob/main/images/database-information.png" />
 </p>
-<i><h4 style="color:Tomato;" align="center">You just need to change the server name for the software to work. No need to manually create databases or tables.</h4></i>
+<i><h4 align="center">You just need to change the server name for the software to work. No need to manually create databases or tables.</h4></i>
 
 # 
 
