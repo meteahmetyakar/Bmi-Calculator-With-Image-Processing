@@ -73,12 +73,12 @@ We enter the ip of the ip camera there may be changes in the code according to t
 
 ### Database Part
 
-* A table is created for each new user in the software, but the software handles it by itself, you just need to enter the connection string.
+* The software creates the database itself, changing the following three variables in the database.cs class will be sufficient for the database connection.
 <br></br>
 <p align="center">
-  <img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing/blob/main/images/database-design.png" />
+  <img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing/blob/main/images/database-information.png" />
 </p>
-<h3 align="center">Table Design</h3>
+<h4 align="center">You just need to change the server name for the software to work. No need to manually create databases or tables.</h4>
 
 # 
 
