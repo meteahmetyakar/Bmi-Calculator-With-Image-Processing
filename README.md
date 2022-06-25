@@ -2,10 +2,9 @@
 
 ## Overview
 
-The software is an extremely primitive prototype written to work on image processing and AI. The aim of the software is to calculate the bmi from the person's photo and compare it with the previous measurements, if any, and make recommendations. There is no height, weight or any other entry in the software. Bmi calculation and recognition the person is done with the person's photo.
-The software approximately 70% correct results.
+The software is an extremely primitive prototype written to study on image processing and AI. The aim of the software is to calculate the bmi from the person's photo and compare it with the previous measurements, if any, and make recommendations. There is no height, weight or any other entry in the software. Bmi calculation and recognition the person is done with the person's photo.
 
-* In the project, i used LBPG Algorithm and I developed in windows forms with C#
+* In the project, I used LBPG Algorithm and I developed in windows forms with C#
 
 # 
 
@@ -72,13 +71,27 @@ We enter the ip of the ip camera there may be changes in the code according to t
 # 
 
 ### Database Part
-
-* A table is created for each new user in the software, but the software handles it by itself, you just need to enter the connection string.
+* I created a class called `database.cs` and performed the database operations in it.
+* The software creates the database itself, changing the following three variables in the `database.cs` class will be sufficient for the database connection.
 <br></br>
 <p align="center">
-  <img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing/blob/main/images/database-design.png" />
+  <img src="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing/blob/main/images/database-information.png" />
 </p>
-<h3 align="center">Table Design</h3>
+<i><h4 align="center">You just need to change the server name for the software to work. No need to manually create databases or tables.</h4></i>
+
+<br></br>
+
+### Table Design
+| persons.dbo   |               
+| ------------- |
+
+| Column Name   | Data Type     |
+| ------------- |:-------------:|
+| [Name Surname]| varchar(50)   |
+| BMI           | varchar(50)   |
+| Date          | datetime      |
+
+<br></br>
 
 # 
 
