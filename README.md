@@ -81,7 +81,7 @@ We enter the ip of the ip camera there may be changes in the code according to t
 <i><h4 align="center">You just need to change the server name for the software to work. No need to manually create databases or tables.</h4></i>
 
 #### persons.dbo
-| asdff         |
+| asdff         |               |
 | Column Name   | Data Type     |
 | ------------- |:-------------:|
 | [Name Surname]| varchar(50)   |
