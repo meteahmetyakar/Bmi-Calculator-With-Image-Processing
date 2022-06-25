@@ -90,6 +90,7 @@ We enter the ip of the ip camera there may be changes in the code according to t
 | [Name Surname]| varchar(50)   |
 | BMI           | varchar(50)   |
 | Date          | datetime      |
+
 <br></br>
 
 # 
