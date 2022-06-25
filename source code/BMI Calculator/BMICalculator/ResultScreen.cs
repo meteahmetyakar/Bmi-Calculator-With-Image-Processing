@@ -11,7 +11,7 @@ using System.Net.Http;
 using FaceDetection;
 using BMICalculator;
 
-namespace WindowsFormsApp121
+namespace BMICalculator
 {
     public partial class ResultScreen : Form
     {

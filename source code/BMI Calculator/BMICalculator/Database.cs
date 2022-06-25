@@ -11,9 +11,9 @@ namespace BMICalculator
 {
     class Database
     {
-        public const string serverName = "BLUU\\SQLEXPRESS";
-        public const string databaseName = "RecognizedFaces";
-        public const string tableName = "persons";
+        public const string serverName = "BLUU\\SQLEXPRESS";    //server name
+        public const string databaseName = "RecognizedFaces";   //database name
+        public const string tableName = "persons";              //table name for person datas
         public const string tableConnString = @"Server = " + serverName + ";Database=" + databaseName + "; Trusted_Connection=yes;"; //this connection string using for connect to table with this string we can do table process as add,delete,update
         public const string dbConnString = @"Server = " + serverName + "; Trusted_Connection=yes;";     //this connection string using for connect to database with this string we can do database process as create db, drop or truncate db
 

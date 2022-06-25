@@ -136,13 +136,13 @@ D:\Mete\github repos\BMI Calculator\source code\BMI Calculator\BMICalculator\bin
 D:\Mete\github repos\BMI Calculator\source code\BMI Calculator\BMICalculator\bin\AForge.xml
 D:\Mete\github repos\BMI Calculator\source code\BMI Calculator\BMICalculator\bin\AForge.Video.xml
 D:\Mete\github repos\BMI Calculator\source code\BMI Calculator\BMICalculator\obj\Debug\BMICalculator.csproj.AssemblyReference.cache
-D:\Mete\github repos\BMI Calculator\source code\BMI Calculator\BMICalculator\obj\Debug\WindowsFormsApp121.FaceRecScreen.resources
-D:\Mete\github repos\BMI Calculator\source code\BMI Calculator\BMICalculator\obj\Debug\WindowsFormsApp121.IpCameraEnterScreen.resources
-D:\Mete\github repos\BMI Calculator\source code\BMI Calculator\BMICalculator\obj\Debug\WindowsFormsApp121.ResultScreen.resources
-D:\Mete\github repos\BMI Calculator\source code\BMI Calculator\BMICalculator\obj\Debug\WindowsFormsApp121.CameraScreen.resources
 D:\Mete\github repos\BMI Calculator\source code\BMI Calculator\BMICalculator\obj\Debug\BMICalculator.Properties.Resources.resources
 D:\Mete\github repos\BMI Calculator\source code\BMI Calculator\BMICalculator\obj\Debug\BMICalculator.csproj.GenerateResource.cache
 D:\Mete\github repos\BMI Calculator\source code\BMI Calculator\BMICalculator\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
 D:\Mete\github repos\BMI Calculator\source code\BMI Calculator\BMICalculator\obj\Debug\BMICalculator.csproj.CopyComplete
 D:\Mete\github repos\BMI Calculator\source code\BMI Calculator\BMICalculator\obj\Debug\BMICalculator.exe
 D:\Mete\github repos\BMI Calculator\source code\BMI Calculator\BMICalculator\obj\Debug\BMICalculator.pdb
+D:\Mete\github repos\BMI Calculator\source code\BMI Calculator\BMICalculator\obj\Debug\BMICalculator.FaceRecScreen.resources
+D:\Mete\github repos\BMI Calculator\source code\BMI Calculator\BMICalculator\obj\Debug\BMICalculator.IpCameraEnterScreen.resources
+D:\Mete\github repos\BMI Calculator\source code\BMI Calculator\BMICalculator\obj\Debug\BMICalculator.ResultScreen.resources
+D:\Mete\github repos\BMI Calculator\source code\BMI Calculator\BMICalculator\obj\Debug\BMICalculator.CameraScreen.resources

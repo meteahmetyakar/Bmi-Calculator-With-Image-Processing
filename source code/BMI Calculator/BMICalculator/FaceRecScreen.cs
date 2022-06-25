@@ -6,7 +6,8 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 using FaceDetection;
-namespace WindowsFormsApp121
+
+namespace BMICalculator
 {
     public partial class FaceRecScreen : Form
     {

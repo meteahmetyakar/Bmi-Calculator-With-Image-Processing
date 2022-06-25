@@ -4,7 +4,7 @@ using System.Drawing;
 using System.Windows.Forms;
 using AForge.Video;
 
-namespace WindowsFormsApp121
+namespace BMICalculator
 {
     public partial class CameraScreen : Form
     {

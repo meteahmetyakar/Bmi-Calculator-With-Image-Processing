@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 using System.Windows.Forms;
 
 
-namespace WindowsFormsApp121
+namespace BMICalculator
 {
     public partial class IpCameraEnterScreen : Form
     {

@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp121
+﻿namespace BMICalculator
 {
     partial class IpCameraEnterScreen
     {
