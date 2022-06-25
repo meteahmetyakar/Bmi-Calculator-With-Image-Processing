@@ -82,7 +82,7 @@ We enter the ip of the ip camera there may be changes in the code according to t
 
 <br></br>
 
-### Database Design
+### Table Design
 | persons.dbo   |               
 | ------------- |
 
