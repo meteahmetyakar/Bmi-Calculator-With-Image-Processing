@@ -1,13 +1,10 @@
 ﻿using Emgu.CV;
-using Emgu.CV.CvEnum;
 using Emgu.CV.Structure;
 using System;
 using System.Runtime.InteropServices;
 using System.Collections.Generic;
 using System.Drawing;
-using System.IO;
 using System.Windows.Forms;
-using System.Data.SqlClient;
 using FaceDetection;
 namespace WindowsFormsApp121
 {
@@ -39,10 +36,6 @@ namespace WindowsFormsApp121
         Image<Bgr, Byte> image2;
         private Capture _capture = null;
 
-
-        SqlConnection conn = new SqlConnection(@"Server=BLUU\SQLEXPRESS;Database=RecognizedFaces;Trusted_Connection=True;");
-
-
         //Events
         private void FaceRecScreen_Load(object sender, EventArgs e)
         {
@@ -70,23 +63,6 @@ namespace WindowsFormsApp121
                     image2._EqualizeHist();
                     image2.Resize(250, 250, Emgu.CV.CvEnum.INTER.CV_INTER_CUBIC).ToBitmap().Save("TrainedFaces\\" + fileNamee); //Save to file.
 
-                    if (isThereTable(tableName) == 0) //If person is not in the database.
-                    {
-                        /* creating a new table with person name as PersonName.dbo*/
-                        conn.Open();
-                        SqlCommand cmd = new SqlCommand();
-                        cmd.Connection = conn;
-                        cmd.CommandText = "CREATE TABLE [dbo].[" + tableName + "](" +
-                            "[Name Surname] [varchar] (50)," +
-                            "[BMI] [varchar](50) NULL," +
-                            "[Date] [datetime] DEFAULT getdate()" +
-                            ")" +
-                            "Insert Into " + tableName + "([Name Surname]) Values ('" + nameForDb + "');";
-                        cmd.ExecuteNonQuery();
-                        cmd.Dispose();
-                        conn.Close();
-                        tableName = "";
-                    }
                     PersonNameTxt.Text = "";
                     MessageBox.Show("Succesfull", "", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
 
@@ -145,24 +121,7 @@ namespace WindowsFormsApp121
 
         //Functions
 
-        int isThereTable(string x) 
-        {
-            /*
-             * This function checks if the table given name is in the database.                                  
-             */
-
-            int a;
-            conn.Open();
-            SqlCommand cmd = new SqlCommand();
-            cmd.Connection = conn;
-
-            cmd.CommandText = "select case when exists((select* from INFORMATION_SCHEMA.TABLES where TABLE_NAME = '" + x + "')) then 1 else 0 end";
-            cmd.ExecuteNonQuery();
-            a = Convert.ToInt32(cmd.ExecuteScalar());
-            cmd.Dispose();
-            conn.Close();
-            return a;
-        }
+        
 
         private void CameraCapture()
         {

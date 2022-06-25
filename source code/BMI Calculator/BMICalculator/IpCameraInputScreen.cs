@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BMICalculator;
+using System;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
 
@@ -15,6 +16,8 @@ namespace WindowsFormsApp121
         [DllImportAttribute("user32.dll")]
         public static extern bool ReleaseCapture();
         public static string nameForDb;
+
+        Database db = new Database();
 
         public IpCameraEnterScreen()
         {
@@ -47,6 +50,13 @@ namespace WindowsFormsApp121
             {
                 System.IO.File.Delete(Application.StartupPath + "\\image.png");
             }
+
+            if (!db.isDatabaseExist()) //if database not exist, create
+                db.createDatabase();
+
+            if (!db.isTableExist()) //if table not exist, create
+                db.createTable();
+
         }
 
         private void ExitButton_Click(object sender, EventArgs e) //Exit button
@@ -88,6 +98,7 @@ namespace WindowsFormsApp121
 
             }
         }
+
 
     }
 }

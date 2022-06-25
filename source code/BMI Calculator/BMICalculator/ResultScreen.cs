@@ -1,16 +1,15 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 using System.Collections.Generic;
-using System.Data;
 using System.Drawing;
 using System.Windows.Forms;
 using System.IO;
-using System.Data.SqlClient;
 using Emgu.CV;
 using Emgu.CV.CvEnum;
 using Emgu.CV.Structure;
 using System.Net.Http;
 using FaceDetection;
+using BMICalculator;
 
 namespace WindowsFormsApp121
 {
@@ -24,6 +23,9 @@ namespace WindowsFormsApp121
         [DllImportAttribute("user32.dll")]
         public static extern bool ReleaseCapture();
 
+        Database db = new Database();
+
+
         public static double BMI = 0;
         public static string BMIForDB;
         int tf = 0;
@@ -32,13 +34,8 @@ namespace WindowsFormsApp121
             InitializeComponent();
         }
 
-        SqlConnection conn = new SqlConnection(@"Server=BLUU\SQLEXPRESS;Database=RecognizedFaces;Trusted_Connection=True;");
-        SqlDataAdapter da = new SqlDataAdapter();
-        SqlCommand com = new SqlCommand();
-        DataSet ds = new DataSet();
 
         public static string id;
-        string TableName;
         string PersonName;
 
         Image<Bgr, Byte> image;
@@ -111,21 +108,8 @@ namespace WindowsFormsApp121
                 string[] nameArray = PersonName.Split('_'); //name saving as "name surname_date_time..." if we split with '_' we can take person's name
                 PersonName = nameArray[0]; //index 0 is name
 
-                nameArray = PersonName.Split(' '); //splitting with space, this way we delete spaces in the name
-                TableName = "";
-                for (int i = 0; i < nameArray.Length; i++)
-                {
-                    TableName += nameArray[i];
-                }
-
-                da = new SqlDataAdapter("Select BMI, date  from " + TableName + " where BMI IS NOT NULL ", conn);       //It pulls the table to datagridview.
-                ds = new DataSet();
-                conn.Open();
-                da.Fill(ds, TableName);
-                ResultsDataGridView.DataSource = ds.Tables[TableName];
-                da.Dispose();
-                ds.Dispose();
-                conn.Close();
+                ResultsDataGridView.DataSource = db.fetchAllWithName(PersonName);
+                
             }
 
             do
@@ -197,22 +181,30 @@ namespace WindowsFormsApp121
             BMITextBox.Text = BMI.ToString("0.##");
             BMIForDB = BMI.ToString("0.##");
 
+            
+            double lastMeasuredBMI = db.LastMeasuredBMI(PersonName);
+
             PhotoPictureBox.SizeMode = PictureBoxSizeMode.StretchImage;
             if (PersonName == null) //if person is not recognized
             {
                 AdviceRichTextBox.AppendText("Öncelikle hoş geldin. Fakat seni tanıyamadım. Bu yüzden sadece vücut kitle endeksin üzerinden konuşacağım. ");
                 BMIAdvice(BMI);
             }
-            else if (!isFirst(TableName)) //if not measuring for the first time
+            else if (db.fetchAllWithName(PersonName).Rows.Count == 0) //if it is the first measurement 
+            {
+                AdviceRichTextBox.AppendText("İlk ölçümüne hoşgeldin " + PersonName + ". ");
+                BMIAdvice(BMI);
+            }
+            else //if not measuring for the first time
             {
                 AdviceRichTextBox.AppendText("Hoşgeldin " + PersonName + ". Önceki tarihlerdeki ölçümlerini yukarıda görebilirsin. Son ölçümün üzerinden ");
-                if (LastMeasureDate(TableName) > 30)
+                if (db.LastMeasureDate(PersonName) > 30)
                 {
                     AdviceRichTextBox.AppendText("çok zaman geçmiş. Ölçümlerin arasındaki zamanı bu kadar uzun tutmamalısın ki takibini daha iyi yapalım ve ona göre hareket edelim. ");
-                    if (CheckChange(BMI, LastMeasuredBMI(TableName)))
+                    if (CheckChange(BMI, lastMeasuredBMI))
                     {
                         AdviceRichTextBox.AppendText("Son ölçümünden bu yana çok fazla bir değişim yok. ");
-                        if (NoMoreChanges(BMI, LastMeasuredBMI(TableName)))
+                        if (NoMoreChanges(BMI, lastMeasuredBMI))
                         {
                             AdviceRichTextBox.AppendText("Değişim çok da isteyeceğimiz bir şey değil. Çünkü durumun gayet iyi. ");
                             BMIAdvice(BMI);
@@ -228,7 +220,7 @@ namespace WindowsFormsApp121
                     else
                     {
                         AdviceRichTextBox.AppendText("Son ölçümünden bu yana çok büyük bir değişim var. ");
-                        if (ThereAreMoreChanges(BMI, LastMeasuredBMI(TableName)))
+                        if (ThereAreMoreChanges(BMI, lastMeasuredBMI))
                         {
                             AdviceRichTextBox.AppendText("Değişimin gayet iyi görünüyor. Bu zamana kadar uyguladığın diyet ve spor programına devam etmeni tavsiye ederim. ");
                             BMIAdvice(BMI);
@@ -244,10 +236,10 @@ namespace WindowsFormsApp121
                 else
                 {
                     AdviceRichTextBox.AppendText("çok zaman geçmemiş. ");
-                    if (CheckChange(BMI, LastMeasuredBMI(TableName)))
+                    if (CheckChange(BMI, lastMeasuredBMI))
                     {
                         AdviceRichTextBox.AppendText("Bunun da etkisiyle birlikte çok bir değişim yok. ");
-                        if (NoMoreChanges(BMI, LastMeasuredBMI(TableName)))
+                        if (NoMoreChanges(BMI, lastMeasuredBMI))
                         {
                             AdviceRichTextBox.AppendText("Değişim çok da isteyeceğimiz bir şey değil. Durumun gayet iyi görünüyor. ");
                             BMIAdvice(BMI);
@@ -262,7 +254,7 @@ namespace WindowsFormsApp121
                     else
                     {
                         AdviceRichTextBox.AppendText("Buna rağmen büyük bir değişim yaşadığını görüyorum. ");
-                        if (ThereAreMoreChanges(BMI, LastMeasuredBMI(TableName)))
+                        if (ThereAreMoreChanges(BMI, lastMeasuredBMI))
                         {
                             AdviceRichTextBox.AppendText("Değişimin isteyeceğimiz bir yönde olsa bile. Hızlı kilo almak da vermek de fazlasıyla zararlı bir durum. " +
                                 "Önemli olan kilo vermek değil yağ oranından kaybetmek. Aynı şekilde kilo almak değil, kiloyu kas kütlesi olarak almak. " +
@@ -279,19 +271,11 @@ namespace WindowsFormsApp121
                     }
                 }
             }
-            else //if it is the first measurement
-            {
-                AdviceRichTextBox.AppendText("İlk ölçümüne hoşgeldin " + PersonName + ". ");
-                BMIAdvice(BMI);
-            }
 
             if (PersonName != null) //saving datas to database
             {
-                conn.Open();
-                SqlCommand cmd = new SqlCommand("Insert Into " + TableName + "(BMI) Values('" + BMIForDB + "')", conn); //Saves the BMI measurement to the corresponding location in the database.
-                cmd.ExecuteNonQuery();
-                cmd.Dispose();
-                conn.Close();
+                db.addRow(PersonName, BMIForDB); //Saves the BMI measurement to the corresponding location in the database.
+
             }
 
         }
@@ -335,30 +319,7 @@ namespace WindowsFormsApp121
         }
 
 
-        //Functions
-        int LastMeasureDate(string x) // Returns how many days have passed since the last measurement date.
-        {
-            int SonOlcum = 0;
-            conn.Open();
-            SqlCommand cmd = new SqlCommand("select DateDIFF(day, date, GETDATE()) from " + x + " where date = (Select MAX(date) from " + x + ")", conn);
-            cmd.ExecuteNonQuery();
-            SonOlcum = Convert.ToInt32(cmd.ExecuteScalar());
-            cmd.Dispose();
-            conn.Close();
-            return SonOlcum;
-        }                           
-
-        double LastMeasuredBMI(string x) //Returns the last measured BMI.
-        {
-            double SonOlcum = 0;
-            conn.Open();
-            SqlCommand cmd = new SqlCommand("select BMI from " + x + " where date = (Select MAX(date) from " + x + ")", conn);
-            cmd.ExecuteNonQuery();
-            SonOlcum = Convert.ToDouble(cmd.ExecuteScalar());
-            cmd.Dispose();
-            conn.Close();
-            return SonOlcum;
-        }                         
+        //Functions                 
 
         bool CheckChange(double BMI, double SonOlcum) // It questions whether the change is more or less compared to the previous measurement.
         {
@@ -502,23 +463,7 @@ namespace WindowsFormsApp121
             return fileName;
         }
 
-        bool isFirst(string x) //queries whether the measurement is the first.
-        {
-            int a;
-            bool returnValue = false;
-            conn.Open();
-            SqlCommand cmd = new SqlCommand();
-            cmd.Connection = conn;
-            cmd.CommandText = "select case when EXISTS(SELECT BMI FROM "+ x +" WHERE BMI IS NOT NULL) then 1 else 0 end";
-            cmd.ExecuteNonQuery();
-            cmd.Dispose();
-            a = Convert.ToInt32(cmd.ExecuteScalar());
-            conn.Close();
-
-            if (a == 1)
-                returnValue = true;
-            return returnValue;
-        }
+       
 
         
     }

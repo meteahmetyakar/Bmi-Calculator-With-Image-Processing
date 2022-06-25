@@ -54,6 +54,7 @@
     <ApplicationIcon>BMIicon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Database.cs" />
     <Compile Include="DetectFace.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
